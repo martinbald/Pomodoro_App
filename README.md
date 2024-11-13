@@ -1,7 +1,16 @@
 # PomodoroApp
 
 ## 1) Vorstellung (Audio ON)
-https://user-images.githubusercontent.com/85818154/229984612-d9da974f-3d23-4071-aba5-5c688b0b6ff8.mp4
+https://github.com/user-attachments/assets/cd9beae5-624f-4839-a915-1a5cd1c25557
 ## 2) Code (Audio ON)
-https://user-images.githubusercontent.com/85818154/229984668-119c9dbe-6260-409a-81dc-d0035f40bb55.mp4
+https://github.com/user-attachments/assets/e7bcb46f-1b84-41a9-b17e-50bb4e385261
+
+
+
+
+
+
+
+
+
 
